@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, ich bin Hana Hamrouni</h1>
 <h3 align="center">Eine leidenschaftliche Frontend-Entwicklerin aus Tunesien</h3>
 
-<p align="left"> src="C:\Users\hanah\OneDrive\Desktop\Portfolio--main\images\sana.jpg" alt="armaturenbrett" /> </p>
+<p align="left"> <img src="C:\Users\hanah\OneDrive\Desktop\Portfolio--main\images\sana.jpg" alt="armaturenbrett" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armaturenbrett" alt="armaturenbrett" /></a> </p>
 
@@ -23,4 +24,3 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=armaturenbrett&show_icons=true&locale=en" alt="armaturenbrett" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaturenbrett&" alt="armaturenbrett" /></p>
-

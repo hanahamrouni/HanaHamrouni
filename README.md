@@ -1,66 +1,50 @@
-<h1 align="center">Hi 👋, ich bin Hana Hamrouni</h1>
-<h3 align="center">Eine leidenschaftliche Frontend-Entwicklerin aus Tunesien</h3>
+<h1 align="center">welcome</h1>
 
-<p align="center">
-  <img src="data:image/jpeg;base64,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" alt="Profilbild von Hana Hamrouni" />
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=armaturenbrett" alt="GitHub Trophäen" />
-  </a>
-</p>
+<p align="center">My name is Hana Hamrouni and I'm a  Frontend Developer  (Angular) from Tunesien</p>
 
-- 👨‍💻 Alle meine Projekte sind verfügbar unter [Portfolio](https://example.com/path/to/your/portfolio/index.html)
+###
 
-- 📫 So erreichen Sie mich **hana.hamrouni2019@gmail.com**
+<h2 align="left">About me</h2>
 
-### Kontaktieren Sie mich:
-<p align="left">
-  <a href="https://fb.com/hana hamrouni" target="_blank">
-    <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/haena_harmouni" target="_blank">
-    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+###
 
-### Sprachen und Tools:
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+<p align="left">✨  I’m currently working on Frontend Developer  (Angular)<br>📚 I’m currently learning asp.net</p>
 
-### GitHub Statistiken:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armaturenbrett&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+###
 
-### Meist verwendete Sprachen:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaturenbrett&layout=compact" alt="Top Sprachen" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmedalibadran/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+201144431824" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
-### GitHub Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armaturenbrett" alt="GitHub Streak Stats" />
-</p>
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
+
+

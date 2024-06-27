@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  I’m currently working on Frontend Developer  (Angular)<br>📚 I’m currently learning asp.net</p>
+<p align="left">✨  I’m currently working on Frontend Developer  (React)<br>📚 I’m currently learning asp.net</p>
 
 ###
 
